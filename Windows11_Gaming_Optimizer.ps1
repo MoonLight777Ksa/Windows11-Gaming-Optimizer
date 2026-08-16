@@ -1,4 +1,4 @@
-﻿#requires -version 5.1
+#requires -version 5.1
 # Windows 11 Gaming Optimizer v1.3
 # Lightweight WinForms GUI. No background service. No disk formatting/partitioning.
 
